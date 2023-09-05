@@ -1,0 +1,157 @@
+{
+  "player_stats": [
+    {
+      "player_name": "Lebron James",
+      "num_games_played": 1421,
+      "total_point": 38652,
+      "total_three_point": 2261,
+      "three_points_attempt": 6563,
+      "total_assist": 10420,
+      "total_rebound": 10667
+    },
+    {
+      "player_name": "Michael Jordan",
+      "num_games_played": 1251,
+      "total_point": 38279,
+      "total_three_point": 729,
+      "three_points_attempt": 2224,
+      "total_assist": 6655,
+      "total_rebound": 7824
+    },
+    {
+      "player_name": "Curry",
+      "num_games_played": 1000,
+      "total_point": 1300,
+      "total_three_point": 1200,
+      "three_points_attempt": 3432,
+      "total_assist": 1231,
+      "total_rebound": 100
+    },
+    {
+      "player_name": "James Harden",
+      "num_games_played": 100,
+      "total_point": 1245,
+      "total_three_point": 4332,
+      "three_points_attempt": 148,
+      "total_assist": 131,
+      "total_rebound": 434
+    },
+    {
+      "player_name": "Hassan Whiteside",
+      "num_games_played": 300,
+      "total_point": 456,
+      "total_three_point": 30,
+      "three_points_attempt": 100,
+      "total_assist": 20,
+      "total_rebound": 1000
+    },
+    {
+      "player_name": "Joel Embid",
+      "num_games_played": 500,
+      "total_point": 1252,
+      "total_three_point": 900,
+      "three_points_attempt": 5000,
+      "total_assist": 500,
+      "total_rebound": 3000
+    },
+    {
+      "player_name": "LA Tenorio",
+      "num_games_played": 1000,
+      "total_point": 1234,
+      "total_three_point": 7621,
+      "three_points_attempt": 3456,
+      "total_assist": 2456,
+      "total_rebound": 809
+    },
+    {
+      "player_name": "Clyde Xavier",
+      "num_games_played": 100,
+      "total_point": 900,
+      "total_three_point": 500,
+      "three_points_attempt": 250,
+      "total_assist": 100,
+      "total_rebound": 200
+    },
+    {
+      "player_name": "Rc Guevarra",
+      "num_games_played": 800,
+      "total_point": 300,
+      "total_three_point": 200,
+      "three_points_attempt": 90,
+      "total_assist": 600,
+      "total_rebound": 500
+    },
+    {
+      "player_name": "Harley Gotardo",
+      "num_games_played": 200,
+      "total_point": 280,
+      "total_three_point": 80,
+      "three_points_attempt": 50,
+      "total_assist": 60,
+      "total_rebound": 120
+    },
+    {
+      "player_name": "Michael Cye R. Salem",
+      "num_games_played": 270,
+      "total_point": 500,
+      "total_three_point": 300,
+      "three_points_attempt": 130,
+      "total_assist": 80,
+      "total_rebound": 90
+    },
+    {
+      "player_name": "Khaira Makiling",
+      "num_games_played": 89,
+      "total_point": 900,
+      "total_three_point": 300,
+      "three_points_attempt": 100,
+      "total_assist": 90,
+      "total_rebound": 67
+    },
+    {
+      "player_name": "Dollysa Faelnar",
+      "num_games_played": 500,
+      "total_point": 1200,
+      "total_three_point": 56,
+      "three_points_attempt": 45,
+      "total_assist": 100,
+      "total_rebound": 89
+    },
+    {
+      "player_name": "Simon Cruz",
+      "num_games_played": 1782,
+      "total_point": 1000,
+      "total_three_point": 6217,
+      "three_points_attempt": 2090,
+      "total_assist": 500,
+      "total_rebound": 600
+    },
+    {
+      "player_name": "Clyde Kaindoy",
+      "num_games_played": 4324,
+      "total_point": 342,
+      "total_three_point": 76,
+      "three_points_attempt": 321,
+      "total_assist": 4324,
+      "total_rebound": 232
+    },
+    {
+      "player_name": "Jordan Clarkson",
+      "num_games_played": 782,
+      "total_point": 2982,
+      "total_three_point": 1712,
+      "three_points_attempt": 2672,
+      "total_assist": 1452,
+      "total_rebound": 972
+    },
+    {
+      "player_name": "Hollis Jefferson",
+      "num_games_played": 972,
+      "total_point": 2536,
+      "total_three_point": 1862,
+      "three_points_attempt": 2452,
+      "total_assist": 873,
+      "total_rebound": 1002
+    }
+  ]
+}
