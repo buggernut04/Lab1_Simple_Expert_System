@@ -1,6 +1,7 @@
+#Overview
 Welcome to the Basketball Player Comparison project! This Python program allows you to compare the statistics of two basketball players. The comparison is based on various metrics such as total points, three-point field goals, assists, rebounds, and games played.
 
-# Introduction
+## Introduction
 The project consists of three main modules:
 
 1. **main.py**:
@@ -12,7 +13,7 @@ The project consists of three main modules:
 3. **responses.py**:
    This module contains response templates that the program uses to communicate with the user. It includes responses for various scenarios, such as when a player is not found, when comparing players with equal stats, and when one player has an advantage.
 
-# How to Use
+## How to Use
 1. **Run the Program**: Execute `main.py` to start the program. Follow the instructions provided by Borgie to input the names of the players you want to compare.
 
 2. **Input Player Information**: If the program doesn't recognize a player, it will prompt you to provide information about that player. You can choose to input the data or skip the step.
@@ -21,7 +22,7 @@ The project consists of three main modules:
 
 4. **Quit**: If you want to exit the program, type 'quit' when prompted.
 
-# File Structure
+## File Structure
 
 - `main.py`: Main program file for user interaction.
 - `ai_functions.py`: Module containing functions for data manipulation.
