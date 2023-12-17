@@ -1,4 +1,4 @@
-#Overview
+# Overview
 Welcome to the Basketball Player Comparison project! This Python program allows you to compare the statistics of two basketball players. The comparison is based on various metrics such as total points, three-point field goals, assists, rebounds, and games played.
 
 ## Introduction
